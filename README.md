@@ -1,8 +1,9 @@
-UI-UX-Experiment2
-Aim:
+# UI-UX-Experiment2
+
+## Aim:
 To Design a Basic Mobile and Web Layout for an Existing Case Study
 
-Algorithm:
+## Algorithm:
 Designing a Basic Mobile and Web Layout for Coffee Cups Shop:
 
 Step 1:Understand the Brand and Users
@@ -29,8 +30,12 @@ Step 6: Review and Document
 
 Check alignment, spacing, and flow of all elements. Export layouts or prototypes and document design decisions to explain how each step contributed to the final outcome.
 
-Output:
-[UI.and.UX.exp2.pdf](https://github.com/user-attachments/files/23440854/UI.and.UX.exp2.pdf)
+## Output:
 
-Result:
+[UI.and.UX.exp2.pdf](https://github.com/user-attachments/files/23440859/UI.and.UX.exp2.pdf)
+
+
+## Result:
 To Design a Basic Mobile and Web Layout for an Existing Case Study is successfully completed
+
+
